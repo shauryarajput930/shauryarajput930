@@ -23,8 +23,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakkyshivam&layout=compact&theme=radical)
+![Shaurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shauryarajput930&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shauryarajput930&layout=compact&theme=radical)
 
 ---
 
@@ -34,8 +34,8 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shaurya-rajput-b60)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://shayryarajput930.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shaurya-rajput-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://vercel.com/shauryarajput930s-projects/portfolio-2)
 
 
 
