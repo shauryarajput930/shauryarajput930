@@ -1,40 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#0d1427"/></linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset=".55" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".08"/></pattern>
-  <style>
-    .display{font-family:DejaVu Sans,Arial,sans-serif;font-weight:800;letter-spacing:1px}
-    .mono{font-family:DejaVu Sans Mono,monospace}
-    .muted{fill:#8c98ad}
-    .white{fill:#f4f7fb}
-    .blue{fill:#247bff}
-    .red{fill:#ff354f}
-  </style>
-</defs>
-<rect width="1200" height="590" rx="30" fill="url(#bg)"/>
-<rect width="1200" height="590" rx="30" fill="url(#dots)"/>
-
-<rect x="40" y="40" width="1120" height="8" rx="4" fill="url(#line)"/>
-<text x="60" y="94" class="mono muted" font-size="18">03  /  STACK</text>
-<text x="60" y="158" class="display white" font-size="44">TOOLS I USE.</text>
-<text x="60" y="204" class="muted" font-size="21">A practical stack focused on modern JavaScript development.</text>
-<g fill="none" stroke="#247bff" opacity=".38">
- <ellipse cx="600" cy="365" rx="300" ry="105" transform="rotate(-18 600 365)"/>
- <ellipse cx="600" cy="365" rx="300" ry="105" transform="rotate(18 600 365)"/>
- <ellipse cx="600" cy="365" rx="300" ry="105"/>
-</g>
-<circle cx="600" cy="365" r="78" fill="#101a30" stroke="#ff354f" stroke-width="2"/>
-<text x="600" y="355" text-anchor="middle" class="display white" font-size="27">FULL</text>
-<text x="600" y="390" text-anchor="middle" class="display blue" font-size="27">STACK</text>
-<g class="mono" font-size="20">
- <g transform="translate(270 300)"><rect width="145" height="44" rx="22" fill="#0d172b" stroke="#247bff"/><text x="72" y="29" text-anchor="middle" class="white">JavaScript</text></g>
- <g transform="translate(820 292)"><rect width="120" height="44" rx="22" fill="#0d172b" stroke="#247bff"/><text x="60" y="29" text-anchor="middle" class="white">React</text></g>
- <g transform="translate(250 430)"><rect width="115" height="44" rx="22" fill="#0d172b" stroke="#247bff"/><text x="57" y="29" text-anchor="middle" class="white">Node.js</text></g>
- <g transform="translate(830 430)"><rect width="125" height="44" rx="22" fill="#0d172b" stroke="#ff354f"/><text x="62" y="29" text-anchor="middle" class="white">MongoDB</text></g>
- <g transform="translate(455 505)"><rect width="125" height="44" rx="22" fill="#0d172b" stroke="#247bff"/><text x="62" y="29" text-anchor="middle" class="white">TypeScript</text></g>
- <g transform="translate(625 505)"><rect width="115" height="44" rx="22" fill="#0d172b" stroke="#ff354f"/><text x="57" y="29" text-anchor="middle" class="white">Tailwind</text></g>
-</g>
-
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590"><defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#247bff"/><stop offset=".75" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#0c1427"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".06"/></pattern>
+<style>.d{font-family:Arial,sans-serif;font-weight:800;letter-spacing:1px}.m{font-family:monospace}.w{fill:#f5f7fb}.g{fill:#8c98ad}.b{fill:#247bff}.r{fill:#ff354f}</style></defs><rect width="1200" height="590" rx="28" fill="url(#bg)"/><rect width="1200" height="590" rx="28" fill="url(#dots)"/><rect x="40" y="40" width="1120" height="7" rx="3" fill="url(#accent)"/><text x="60" y="90" class="m g" font-size="16">SHAURYA RAJPUT  /  STACK</text>
+<text x="60" y="150" class="d w" font-size="48">THE TOOLS BEHIND THE BUILDS.</text><text x="60" y="188" class="g" font-size="19">Grouped by the technologies I actually work with or am actively learning.</text>
+<g fill="none" stroke="#247bff" opacity=".38"><ellipse cx="600" cy="385" rx="365" ry="120" transform="rotate(-18 600 385)"/><ellipse cx="600" cy="385" rx="365" ry="120" transform="rotate(18 600 385)"/><ellipse cx="600" cy="385" rx="365" ry="120"/></g>
+<circle cx="600" cy="385" r="86" fill="#101a30" stroke="#ff354f" stroke-width="2"/><text x="600" y="376" text-anchor="middle" class="d w" font-size="28">FULL</text><text x="600" y="412" text-anchor="middle" class="d b" font-size="28">STACK</text><rect x="245" y="300" width="150" height="42" rx="21" fill="#0d172b" stroke="#247bff"/><text x="320.0" y="327" text-anchor="middle" class="m w" font-size="16">JavaScript</text><rect x="805" y="300" width="105" height="42" rx="21" fill="#0d172b" stroke="#247bff"/><text x="857.5" y="327" text-anchor="middle" class="m w" font-size="16">React</text><rect x="220" y="450" width="120" height="42" rx="21" fill="#0d172b" stroke="#247bff"/><text x="280.0" y="477" text-anchor="middle" class="m w" font-size="16">Node.js</text><rect x="835" y="450" width="130" height="42" rx="21" fill="#0d172b" stroke="#ff354f"/><text x="900.0" y="477" text-anchor="middle" class="m w" font-size="16">MongoDB</text><rect x="445" y="515" width="125" height="42" rx="21" fill="#0d172b" stroke="#247bff"/><text x="507.5" y="542" text-anchor="middle" class="m w" font-size="16">TypeScript</text><rect x="630" y="515" width="115" height="42" rx="21" fill="#0d172b" stroke="#ff354f"/><text x="687.5" y="542" text-anchor="middle" class="m w" font-size="16">Tailwind</text><rect x="465" y="245" width="115" height="42" rx="21" fill="#0d172b" stroke="#247bff"/><text x="522.5" y="272" text-anchor="middle" class="m w" font-size="16">HTML/CSS</text><rect x="650" y="245" width="110" height="42" rx="21" fill="#0d172b" stroke="#247bff"/><text x="705.0" y="272" text-anchor="middle" class="m w" font-size="16">Git</text></svg>
