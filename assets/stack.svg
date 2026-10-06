@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#0d1427"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset=".55" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".08"/></pattern>
+  <style>
+    .display{font-family:DejaVu Sans,Arial,sans-serif;font-weight:800;letter-spacing:1px}
+    .mono{font-family:DejaVu Sans Mono,monospace}
+    .muted{fill:#8c98ad}
+    .white{fill:#f4f7fb}
+    .blue{fill:#247bff}
+    .red{fill:#ff354f}
+  </style>
+</defs>
+<rect width="1200" height="590" rx="30" fill="url(#bg)"/>
+<rect width="1200" height="590" rx="30" fill="url(#dots)"/>
+
+<rect x="40" y="40" width="1120" height="8" rx="4" fill="url(#line)"/>
+<text x="60" y="94" class="mono muted" font-size="18">03  /  STACK</text>
+<text x="60" y="158" class="display white" font-size="44">TOOLS I USE.</text>
+<text x="60" y="204" class="muted" font-size="21">A practical stack focused on modern JavaScript development.</text>
+<g fill="none" stroke="#247bff" opacity=".38">
+ <ellipse cx="600" cy="365" rx="300" ry="105" transform="rotate(-18 600 365)"/>
+ <ellipse cx="600" cy="365" rx="300" ry="105" transform="rotate(18 600 365)"/>
+ <ellipse cx="600" cy="365" rx="300" ry="105"/>
+</g>
+<circle cx="600" cy="365" r="78" fill="#101a30" stroke="#ff354f" stroke-width="2"/>
+<text x="600" y="355" text-anchor="middle" class="display white" font-size="27">FULL</text>
+<text x="600" y="390" text-anchor="middle" class="display blue" font-size="27">STACK</text>
+<g class="mono" font-size="20">
+ <g transform="translate(270 300)"><rect width="145" height="44" rx="22" fill="#0d172b" stroke="#247bff"/><text x="72" y="29" text-anchor="middle" class="white">JavaScript</text></g>
+ <g transform="translate(820 292)"><rect width="120" height="44" rx="22" fill="#0d172b" stroke="#247bff"/><text x="60" y="29" text-anchor="middle" class="white">React</text></g>
+ <g transform="translate(250 430)"><rect width="115" height="44" rx="22" fill="#0d172b" stroke="#247bff"/><text x="57" y="29" text-anchor="middle" class="white">Node.js</text></g>
+ <g transform="translate(830 430)"><rect width="125" height="44" rx="22" fill="#0d172b" stroke="#ff354f"/><text x="62" y="29" text-anchor="middle" class="white">MongoDB</text></g>
+ <g transform="translate(455 505)"><rect width="125" height="44" rx="22" fill="#0d172b" stroke="#247bff"/><text x="62" y="29" text-anchor="middle" class="white">TypeScript</text></g>
+ <g transform="translate(625 505)"><rect width="115" height="44" rx="22" fill="#0d172b" stroke="#ff354f"/><text x="57" y="29" text-anchor="middle" class="white">Tailwind</text></g>
+</g>
+
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#0d1427"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#247bff"/><stop offset=".55" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".08"/></pattern>
+  <style>
+    .display{font-family:DejaVu Sans,Arial,sans-serif;font-weight:800;letter-spacing:1px}
+    .mono{font-family:DejaVu Sans Mono,monospace}
+    .muted{fill:#8c98ad}
+    .white{fill:#f4f7fb}
+    .blue{fill:#247bff}
+    .red{fill:#ff354f}
+  </style>
+</defs>
+<rect width="1200" height="590" rx="30" fill="url(#bg)"/>
+<rect width="1200" height="590" rx="30" fill="url(#dots)"/>
+
+<rect x="40" y="40" width="1120" height="8" rx="4" fill="url(#line)"/>
+<text x="60" y="94" class="mono muted" font-size="18">02  /  ABOUT + LIFE</text>
+<text x="60" y="158" class="display white" font-size="44">WHAT I BUILD.</text>
+<text x="60" y="205" class="muted" font-size="21">Practical interfaces, API-driven applications and full-stack projects.</text>
+<rect x="60" y="250" width="500" height="265" rx="24" fill="#0d172b" stroke="#203250"/>
+<text x="88" y="292" class="mono blue" font-size="17">CAPABILITIES</text>
+<text x="88" y="340" class="white" font-size="23">▸ React &amp; Vite interfaces</text>
+<text x="88" y="382" class="white" font-size="23">▸ REST API integration</text>
+<text x="88" y="424" class="white" font-size="23">▸ Node.js / Express fundamentals</text>
+<text x="88" y="466" class="white" font-size="23">▸ MongoDB &amp; authentication</text>
+<rect x="600" y="250" width="540" height="265" rx="24" fill="#0d172b" stroke="#203250"/>
+<text x="628" y="292" class="mono red" font-size="17">CURRENT INTERESTS</text>
+<text x="628" y="350" class="display white" font-size="30">FULL-STACK WEB</text>
+<text x="628" y="390" class="muted" font-size="20">Turning ideas into usable products.</text>
+<text x="628" y="435" class="display white" font-size="30">AI + WEB</text>
+<text x="628" y="475" class="muted" font-size="20">Exploring practical AI-powered interfaces.</text>
+<rect x="60" y="548" width="1080" height="4" rx="2" fill="#253655"/>
+<rect x="60" y="548" width="360" height="4" rx="2" fill="#247bff"/>
+
+</svg>
