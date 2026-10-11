@@ -18,13 +18,22 @@
 [![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shaurya_01x)
 [![Instagram](https://img.shields.io/badge/Instagram-ff354f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaurya_01x/)
 
-## SELECTED PROJECTS
+## 📊 GitHub Stats
 
-| Project | Description | Live |
-|---|---|---|
-| **Chatter** | Real-time chat application. | [Live Demo](https://chatter-vert-mu.vercel.app/) |
-| **GitHub Profile Analyzer** | GitHub profile analysis using the GitHub API. | [Live Demo](https://gitprofile-analyzer.netlify.app/) |
-| **AI Chat** | AI chat interface with API integration. | [Live Demo](https://shauryarajput930.github.io/ai-chat/) |
-| **Weather Pro** | Weather application built with JavaScript. | [Live Demo](https://shauryarajput930.github.io/weather-pro/) |
-| **Portfolio** | React + Vite personal portfolio. | [Portfolio](https://shauryarajput.in) |
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=shauryarajput930&show_icons=true&theme=radical&hide_border=true" alt="Shaurya's GitHub stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryarajput930&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most used programming languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryarajput930&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+      </td>
+    </tr>
+  </table>
+</div>
